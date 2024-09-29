@@ -13,6 +13,15 @@ p:last-child {
   margin-bottom: 0;
 }
 
+body {
+  padding: 0px auto;
+}
+
+#root {
+  max-width: 480px;
+  margin: auto;
+}
+
 ul {
   margin: 0;
   padding: 0;
